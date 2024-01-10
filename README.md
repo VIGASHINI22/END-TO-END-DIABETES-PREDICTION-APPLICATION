@@ -4,19 +4,8 @@
 
 This project implements a machine learning model to predict diabetes based on the PIMA Diabetes dataset. The model utilizes a Support Vector Machine (SVM) classifier with a linear kernel.
 
-## Dependencies
 
-- numpy
-- pandas
-- scikit-learn
-
-Install dependencies using:
-
-```bash
-pip install numpy pandas scikit-learn
-
-
-PROJECT EXPLANATION:
+## Project Explanation
 
 Data Collection and Analysis:
 
@@ -39,3 +28,16 @@ Making Predictions:
 
 A sample input data point is provided, standardized, and used to make a prediction with the trained SVM classifier.
 The prediction result is then printed.
+
+## Dependencies
+
+- numpy
+- pandas
+- scikit-learn
+
+Install dependencies using:
+
+```bash
+pip install numpy pandas scikit-learn
+
+
